@@ -1,0 +1,2 @@
+# estadsitica_espacial
+geoestadistica
